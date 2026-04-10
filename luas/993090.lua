@@ -2,5 +2,5 @@
 -- Redistribution of VICTORs files is not allowed AT ALL
 -- Join the official here: https://discord.gg/piracylords
 
-addappid(2626910)
-addappid(2626911, 1, "a14bacc8adc0035d383e4eb82fb03c9f3969c4947b1413b83db23da920ddba0c")
+addappid(993090)
+addappid(993091,1,"3a02317ffe8c475c236c603a9fcd31c7cd8e4a109240f4c3d9fa28081bdc02bd")
