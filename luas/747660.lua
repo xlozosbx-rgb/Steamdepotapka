@@ -1,0 +1,7 @@
+-- This lua file has been fetched from the bot VICTOR which is the exclusive property of Piracy Lords server.
+-- Redistribution of VICTORs files is not allowed AT ALL
+-- Join the official here: https://discord.gg/piracylords
+
+addappid(747660)
+addappid(747661,0,"2be8f0b84ce1709f94c1e3f51780dc5d9b578dee06c6e2a01bfa8062612b39d7")
+addappid(1924720,0,"0082af8a55cb6a77b1d8de8fc5264b5ec9899864bd449a859cffbf97f0125859")
